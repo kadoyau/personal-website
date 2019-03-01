@@ -47,12 +47,14 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: GraphQL
+    web_url: https://graphql.org/
+    image_url: https://raw.githubusercontent.com/facebook/graphql/master/resources/GraphQL%20Logo.png
 
-  - name: Web design
+  - name: VirtualCast
+    web_url: https://virtualcast.jp/
+    image_url: https://pbs.twimg.com/profile_images/983546515837804544/zSvLqGp8_400x400.jpg
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: CRA
+    web_url: https://github.com/facebook/create-react-app
+    image_url: https://facebook.github.io/create-react-app/img/logo.svg

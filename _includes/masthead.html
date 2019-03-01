@@ -19,6 +19,12 @@
           @{{ user.login }}
         </a>
       </div>
+      <div class="{{ metadata_styles }}">
+        <img src="https://i.gyazo.com/6ef3ae604c81e2d9a99aebc10f59c437.png" width="20" height="20" class="mr-2 v-align-middle" />
+        <a href="https://scrapbox.io/{{ user.login }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
+          Tech Wiki
+        </a>
+      </div>
     {% endif %}
     {% if user.email %}
       <div class="{{ metadata_styles }}">
